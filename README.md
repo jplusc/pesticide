@@ -1,17 +1,19 @@
 # Pesticide for Chrome 2024
 
-I had no idea the original [Pesticide](https://github.com/mrmrs/pesticide) extension I was using was long since gone until I moved my chrome profile to a new computer and it was missing.
+This is a personal fork of the chrome extension [pesticide-for-chrome](https://github.com/mrmrs/pesticide/tree/master/pesticide_for_chrome) updated to work with the new v3 manifest.json which is required in 2024.
 
-Pesticide still uses the v2 manifest.json which was deprecatiated in 2022, then forcefully removed from the chrome web store in 2024.
+I had no idea the original [Pesticide](https://github.com/mrmrs/pesticide) extension I was using was long since gone until I moved my chrome profile to a new computer and noticed it was missing.
+
+Pesticide still uses the v2 manifest.json which was deprecatiated in 2022, then forcefully removed from the Chrome Web Store in 2024.
 
 This is a fork of the [original extensions](https://github.com/mrmrs/pesticide/tree/master/pesticide_for_chrome) and updated to the service-worker model and of course the v3 of the manifest.
 
-I don't yet have this listed in the chrome store, but I probably will just to simplify installs.   Until then, you can just download this, toss it in a dir, and turn on developer mode at chrome://extensions/ and hit 'Load unpacked' and point the extension manger at the dir.
+I haven't listed this in the Chrome Store yet, but I probably will just to simplify installs.   Until then, you can just download this, place it in a directory, enable developer mode at `chrome://extensions/` and hit 'Load unpacked' and point the extension manger to the directory.
 
 
-*note, if you used the original [Pesticide CSS](https://github.com/mrmrs/pesticide) project to make a custom colored CSS file, you can use that pesticide.min.css instead of the one included here (which is from pesticide v1.3.0 @ Dec 7, 2015)
+*note, if you used the original [Pesticide CSS](https://github.com/mrmrs/pesticide) project to make a custom-colored CSS file, you can use that pesticide.min.css instead of the one included here (which is from pesticide v1.3.0, dated Dec 7, 2015)
 
-*note2, this is mainly for my personal use as I did use Pesticide for Chrome, if you have any fixes/updates, feel free to also submit back to the [original project](https://github.com/mrmrs/pesticide/tree/master/pesticide_for_chrome).
+*note2, this is mainly for my personal use as I did use Pesticide for Chrome, if you have any fixes or updates, feel free to also submit back to the [original project](https://github.com/mrmrs/pesticide/tree/master/pesticide_for_chrome).
 
 
 Original copywrite is by Paul Molluzzo (2014)
