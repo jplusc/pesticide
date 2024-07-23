@@ -2,7 +2,7 @@
 
 This is a personal fork of the chrome extension [pesticide-for-chrome](https://github.com/mrmrs/pesticide/tree/master/pesticide_for_chrome) updated to work with the new v3 manifest.json which is required in 2024.
 
-I had no idea the original [Pesticide](https://github.com/mrmrs/pesticide) extension I was using was long since gone until I moved my chrome profile to a new computer and noticed it was missing.
+I had no idea the original [Pesticide](https://github.com/mrmrs/pesticide) extension I was using was long since dead until I moved my chrome profile to a new computer and noticed it was missing.
 
 Pesticide still uses the v2 manifest.json which was deprecatiated in 2022, then forcefully removed from the Chrome Web Store in 2024.
 
@@ -18,6 +18,10 @@ I haven't listed this in the Chrome Store yet, but I probably will just to simpl
 
 Original copywrite is by Paul Molluzzo (2014)
 and the The MIT License still applies here.
+
+
+
+**Thanks Paul / Adam / @mrmrs   for your contribution 10+ years ago!  I can't believe I am still using your this; that must be a testament to its usefulness.**
 
 
 
